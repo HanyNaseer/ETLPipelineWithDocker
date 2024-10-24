@@ -1,7 +1,7 @@
 # ETLPipelineWithDocker
 This project presents a Bike Sales Dashboard in Excel, providing a comprehensive analysis of sales data across key dimensions like date, segment, country, and product. The interactive dashboard enables stakeholders to monitor performance metrics and make data-driven decisions easily.
 
-# # Key Features
+## Key Features
 - Data Ingestion: Extract data from various sources and load it into a data warehouse.
 
 - Data Transformation: Clean and transform data using Python scripts to prepare it for analysis.
@@ -10,7 +10,7 @@ This project presents a Bike Sales Dashboard in Excel, providing a comprehensive
 
 - Containerization: Utilize Docker to create isolated environments for the application, enhancing portability and scalability.
 
-# # Technologies Used:
+## Technologies Used:
 - Python
 - Apache Airflow
 - Docker
