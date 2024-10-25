@@ -10,7 +10,7 @@ This project presents a Bike Sales Dashboard in Excel, providing a comprehensive
 
 - Containerization: Utilize Docker to create isolated environments for the application, enhancing portability and scalability.
 
-## Technologies Used:
+## Technologies Used
 - Python
 - Apache Airflow
 - Docker
