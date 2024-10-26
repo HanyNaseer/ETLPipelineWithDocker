@@ -1,5 +1,5 @@
 # ETLPipelineWithDocker
-This project presents a Bike Sales Dashboard in Excel, providing a comprehensive analysis of sales data across key dimensions like date, segment, country, and product. The interactive dashboard enables stakeholders to monitor performance metrics and make data-driven decisions easily.
+Developed a comprehensive ETL pipeline for an online retail dataset to streamline data extraction, transformation, and loading processes.
 
 ## Key Features
 - Data Ingestion: Extract data and load it into a data warehouse.
